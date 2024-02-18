@@ -1,4 +1,4 @@
-package template
+package ipv6
 
 import (
 	"math/rand"
